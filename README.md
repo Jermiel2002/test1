@@ -2,11 +2,13 @@
 
 ##Titre de niveau 2
 
-+1
-+2
-+3
+##Titre de niveau 3
 
-1.Un
++ 1
++ 2
++ 3
+
+1. Un
 2. Deux
 
 Formation **GIT**
